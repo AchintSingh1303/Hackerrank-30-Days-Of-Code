@@ -12,5 +12,5 @@ print(i + i2)
 # Print the sum of the double variables on a new line.
 print(d + d2)
 # Concatenate and print the String variables on a new line
-print(s+s2)
+print(s + s2)
 # The 's' variable above should be printed first.
